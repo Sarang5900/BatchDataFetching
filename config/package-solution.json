@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "excel-data-list-client-side-solution",
+    "id": "2086af18-2ba2-45c0-abf0-85aa7266c7f3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ExcelDataList description"
+      },
+      "longDescription": {
+        "default": "ExcelDataList description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "excel-data-list Feature",
+        "description": "The feature that activates elements of the excel-data-list solution.",
+        "id": "ab9fd405-226b-4754-9fb0-030917bb663d",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/excel-data-list.sppkg"
+  }
+}

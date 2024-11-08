@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "excel-data-list",
+    "libraryId": "2086af18-2ba2-45c0-abf0-85aa7266c7f3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ExcelDataList",
+    "solutionShortDescription": "ExcelDataList description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
